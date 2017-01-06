@@ -1,0 +1,9 @@
+\boolfalse {citerequest}\boolfalse {citetracker}\boolfalse {pagetracker}\boolfalse {backtracker}\relax 
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {1}T\IeC {\h \ocircumflex }ng quan}{2}{section.1}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {2}C\IeC {\'a}c c\IeC {\^o}ng tr\IeC {\`\i }nh li\IeC {\^e}n quan}{2}{section.2}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {3}Ph\IeC {\uhorn }\IeC {\ohorn }ng ph\IeC {\'a}p}{2}{section.3}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {4}Th\IeC {\d \uhorn }c nghi\IeC {\d \ecircumflex }m v\IeC {\`a} k\IeC {\'\ecircumflex }t qu\IeC {\h a}}{2}{section.4}
